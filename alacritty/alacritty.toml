@@ -1,0 +1,29 @@
+[cursor.style]
+blinking = "Always"
+shape = "Beam"
+
+[font]
+size = 13
+
+[font.bold]
+family = "CaskaydiaCove Nerd Font"
+
+[font.normal]
+family = "CaskaydiaCove Nerd Font"
+
+[font.italic]
+family = "CaskaydiaCove Nerd Font"
+
+[window]
+dynamic_padding = true
+opacity = 0.5
+
+[colors]
+transparent_background_colors = true
+
+[window.padding]
+x = 0
+y = 0
+
+[env]
+TERM = "xterm-256color"
